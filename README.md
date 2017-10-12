@@ -1,2 +1,2 @@
 # CSC-Homework
-This is where I fail miserably 
+This is where I put my homework
